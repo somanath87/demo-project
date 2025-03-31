@@ -1,5 +1,5 @@
 # demo-project
 this is my first git repository
 <br>
-Author-Somaath Dash
+Author-Somanath Dash
 start learn
